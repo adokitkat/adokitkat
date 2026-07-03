@@ -11,7 +11,7 @@
 ### Github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adokitkat&layout=compact&langs_count=12&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![adokitkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=adokitkat&show_icons=true&count_private=true&line_height=33&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![adokitkat's GitHub stats](https://github-stats-extended.vercel.app/api?username=adokitkat&show_icons=true&count_private=true&line_height=33&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adokitkat/adokitkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
